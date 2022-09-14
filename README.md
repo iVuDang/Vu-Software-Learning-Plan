@@ -4,7 +4,7 @@
 Software skills I'd like to develop, and how I will go about it. 
 
 
-# Software skills to develop :earth_asia: 
+# Software skills to develop :world_map: 
 
 | | **FRONT END**  | >> | >> | **BACK END** | >> | >> | **UI/UX DESIGN** | **DATA MODELING** |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- | ------------- |------------- |
@@ -13,7 +13,7 @@ Software skills I'd like to develop, and how I will go about it.
 | **Cross-platform** | | | Express.js / Node.js | | MongoDB | | Adobe After Effects | Power BI |
 
 
-# Other skills to develop :speech_balloon:
+# Other skills to develop :airplane:
 | Primero  | Segundo | Tercero | Cuarto | 
 | ------------- | ------------- | ------------- | ------------- |  
 | English | Vietnamese | Spanish | ? |
