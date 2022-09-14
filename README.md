@@ -1,7 +1,7 @@
 # Vu-s-Software-Learning-Plan
 
 # Purpose
-Software skills I'd like to develop, and how I will go about it. 
+* Software skills I'd like to develop, and how I will go about it. 
 
 
 # Software skills to develop :world_map: 
