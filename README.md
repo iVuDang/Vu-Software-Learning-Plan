@@ -21,10 +21,10 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Frequency** | Daily | Daily | Weekend | Weekend |
 | **Quantity** | x1 | 25 pages | 1.5hr | 1.5hr |
-| 1 | Python | 1. 158 - Python (2nd Edition)_ Learn Pyt - LCF Publishing | ------------- | ------------- |
-| 2 | SQL | 2. 191 - Python Programming for Beginner - Jason Cannon | ------------- | ------------- |
-| 3 | ------------- | 3. 269 - Coding for Kids_ Python_ Learn - Adrienne B. Tacke | ------------- | ------------- |
-| 4 | ------------- | 4. 505 - automate-the-boring-stuff-with-python-2015 | ------------- | ------------- |
+| 1 | Python | 1. 158 - Python (2nd Edition)_ Learn Pyt - LCF Publishing | Relational Databases (Bash, PostgreSQL, Git) | ------------- |
+| 2 | SQL | 2. 191 - Python Programming for Beginner - Jason Cannon | Scientific Computing with Python (Variables, loops, conditionals, functions, data structures, networking, relational databases, data visualization) | ------------- |
+| 3 | ------------- | 3. 269 - Coding for Kids_ Python_ Learn - Adrienne B. Tacke | Data Analysis with Python (Numpy, Pandas, Matplotlib, Seaborn) | ------------- |
+| 4 | ------------- | 4. 505 - automate-the-boring-stuff-with-python-2015 | Machine Learning with Python (TensorFlow, neural networks, natural language processing, reinforcement learning) | ------------- |
 | 5 | ------------- | 5. 562 - python-crash-course | ------------- | ------------- |
 | 6 | ------------- | ------------- | ------------- | ------------- |
 
