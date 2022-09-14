@@ -14,10 +14,12 @@ Software skills I'd like to develop, and how I will go about it.
 
 
 # Other skills to develop :airplane:
+## Human languages 
 | Primero  | Segundo | Tercero | Cuarto | 
 | ------------- | ------------- | ------------- | ------------- |  
 | English | Vietnamese | Spanish | ? |
 
+## Physical arts 
 | Striking  | Takedown | Ground |
 | ------------- | ------------- | ------------- |
 | Muay Thai / Boxing | Judo / Wrestling | Jiu-Jitsu | 
