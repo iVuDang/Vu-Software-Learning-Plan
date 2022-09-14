@@ -6,9 +6,9 @@ Software skills I'd like to develop, and how I will go about it.
 
 # Software skills to develop :world_map: 
 
-|  |  |  |  |  |  |  | 
-| ------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- | 
-| **Base Language** | Excel/VBA | HTML/CSS | JavaScript | Python | SQL | Java |
+|  | 1 | 2 | 3 | 4 | 5 |  
+| ------------- | ------------- | ------------- | ------------- | ------------- |------------- | 
+| **Base Language** | HTML/CSS | JavaScript | Python | SQL | Java |
 | **Frameworks / Libraries** | Bootstrap | React.js | Django | | 
 | **Cross-platform** | Express.js / Node.js | MongoDB | 
 | **Data Modeling ** | Excel/VBA | Arteryx | Power BI | Tableau | 
