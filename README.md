@@ -19,9 +19,9 @@
 
 # Other skills to develop :airplane:
 ## Human languages 
-| Primero  | Segundo | Tercero | Cuarto | 
-| ------------- | ------------- | ------------- | ------------- |  
-| English | Vietnamese | Spanish | ? |
+| Primero  | Segundo | Tercero | 
+| ------------- | ------------- | ------------- | 
+| English | Vietnamese | Spanish | 
 
 ## Physical arts 
 | Striking  | Takedown | Ground |
