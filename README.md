@@ -1,10 +1,10 @@
 # Vu-s-Software-Learning-Plan
+
+# Purpose
 Software skills I'd like to develop, and how I will go about it. 
 
 
-
-
-# Vu's Software Stack Roadmap :earth_asia: 
+# Software skills to develop :earth_asia: 
 
 | | **FRONT END**  | >> | >> | **BACK END** | >> | >> | **UI/UX DESIGN** | **DATA MODELING** |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- | ------------- |------------- |
@@ -13,7 +13,7 @@ Software skills I'd like to develop, and how I will go about it.
 | **Cross-platform** | | | Express.js / Node.js | | MongoDB | | Adobe After Effects | Power BI |
 
 
-# Vu's Human Language Stack Roadmap :speech_balloon:
+# Other skills to develop :speech_balloon:
 | Primero  | Segundo | Tercero | Cuarto | 
 | ------------- | ------------- | ------------- | ------------- |  
 | English | Vietnamese | Spanish | ? |
