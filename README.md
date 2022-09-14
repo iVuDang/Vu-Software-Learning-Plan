@@ -11,7 +11,7 @@ Software skills I'd like to develop, and how I will go about it.
 | **Base Language** | HTML/CSS | JavaScript | Python | SQL | Java |
 | **Frameworks / Libraries** | Bootstrap | React.js | Django | | 
 | **Cross-platform** | Express.js / Node.js | MongoDB | 
-| **Data Modeling ** | Excel/VBA | Arteryx | Power BI | Tableau | 
+| **Data Modeling** | Excel/VBA | Arteryx | Power BI | Tableau | 
 | **UI/UX DESIGN** | Adobe Premiere Pro | Apple Final Cut Pro | Adobe Photoshop  | Adobe After Effects | Canva | 
 
 
