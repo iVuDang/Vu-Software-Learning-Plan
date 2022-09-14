@@ -6,11 +6,15 @@ Software skills I'd like to develop, and how I will go about it.
 
 # Software skills to develop :world_map: 
 
-| | **FRONT END**  | >> | >> | **BACK END** | >> | >> | **UI/UX DESIGN** | **DATA MODELING** |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- | ------------- |------------- |
-| **Base Language** | Excel/VBA | HTML/CSS | JavaScript | Python | SQL | Java | Adobe Photoshop| Arteryx |
-| **Frameworks / Libraries** | | Bootstrap | React.js | Django | | | Adobe Premiere Pro | Tableau |
-| **Cross-platform** | | | Express.js / Node.js | | MongoDB | | Adobe After Effects | Power BI |
+| **Base Language** | Excel/VBA | HTML/CSS | JavaScript | Python | SQL | Java |
+| **Frameworks / Libraries** | Bootstrap | React.js | Django | | 
+| **Cross-platform** | Express.js / Node.js | | MongoDB | | Adobe After Effects | 
+| **Data Modeling ** | Excel/VBA | Arteryx | Power BI | Tableau | 
+| **UI/UX DESIGN** | Adobe Premiere Pro | Apple Final Cut Pro | Adobe Photoshop  | Adobe After Effects | Canva | 
+
+
 
 
 # Other skills to develop :airplane:
