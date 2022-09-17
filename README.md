@@ -41,8 +41,7 @@
 | Muay Thai / Boxing | Judo / Wrestling | Jiu-Jitsu | 
 
 
-<img src="https://imgur.com/NCOVvY1.jpg" width=50% height=50%>
-
+<img src="https://imgur.com/NCOVvY1.jpg">
 <img src="https://i.imgur.com/VB5JNWE.jpg">
 
 
