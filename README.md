@@ -40,9 +40,9 @@
 | ------------- | ------------- | ------------- |
 | Muay Thai / Boxing | Judo / Wrestling | Jiu-Jitsu | 
 
-
-<img src="https://imgur.com/NCOVvY1.jpg" width=30% height=30%>
 <img src="https://i.imgur.com/VB5JNWE.jpg" width=30% height=30%>
+<img src="https://imgur.com/NCOVvY1.jpg" width=30% height=30%>
+
 
 
 
