@@ -42,7 +42,7 @@
 
 
 <img src="https://imgur.com/NCOVvY1.jpg">
-<img src="https://i.imgur.com/VB5JNWE.jpg" width=50% height=50%>
+<img src="https://i.imgur.com/VB5JNWE.jpg" width=30% height=30%>
 
 
 
