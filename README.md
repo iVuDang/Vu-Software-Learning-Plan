@@ -40,7 +40,7 @@
 | ------------- | ------------- | ------------- |
 | Muay Thai / Boxing | Judo / Wrestling | Jiu-Jitsu | 
 
-## Inspiration
+## Inspirational Characters
 **Zuko** <br>
 <img src="https://i.imgur.com/VB5JNWE.jpg" width=30% height=30%>
 
