@@ -16,7 +16,7 @@
 | **UI/UX DESIGN** | Adobe Premiere Pro | Apple Final Cut Pro | Adobe After Effects | Canva | Adobe Photoshop  | ------------- | 
 
 
-## Comp Sci Degree Courses
+## Comp Sci Degree 
 Course  | Status
 ------------- | ------------- 
 COMP 1501/1631 - Introduction to Computer Science I | :arrow_forward: 
