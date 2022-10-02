@@ -9,7 +9,7 @@
 ## Software Stack 
 |  | 1 | 2 | 3 | 4 | 5 |  
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- | 
-| **Base Language** | HTML/CSS | JavaScript | Python | SQL | Java | 
+| **Base Language** | HTML/CSS | JavaScript | **Python** | SQL | Java | 
 | **Frameworks / Libraries** | Bootstrap | React.js | Django | ------------- | ------------- | 
 | **Cross-platform** | Express.js / Node.js | MongoDB | ------------- | ------------- | ------------- | 
 | **Data Modeling** | Excel/VBA | ------------- | ------------- | ------------- | ------------- | 
