@@ -1,8 +1,12 @@
 # Vu-s-Software-Learning-Plan
 
 # Purpose
+* To outline where I've been, and where I'm going. 
 * Software skills I'd like to develop, and how I will go about it. 
 
+# Business skills 
+[Named Link](https://imgur.com/krwGlIX "Named link title") 
+[Named Link](https://imgur.com/ujGubaD "Named link title") 
 
 # Software skills to develop :world_map: 
 
