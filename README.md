@@ -16,6 +16,39 @@
 | **UI/UX DESIGN** | Adobe Premiere Pro | Apple Final Cut Pro | Adobe After Effects | Canva | Adobe Photoshop  | ------------- | 
 
 
+## Comp Sci Degree Courses
+Course  | Status
+------------- | ------------- 
+COMP 1501/1631 - Introduction to Computer Science I 
+MATH 1200 - Calculus for Scientists I
+MATH 1203 - Linear Algebra for Scientists and Engineers
+COMP 1633 - Introduction to Computer Science II 
+MATH 2234 - Concepts of Mathematical Statistics
+PHIL 1179 - Introduction to Symbolic Logic
+COMP 3309 - Information Technology and Society
+MATH 1271 - Discrete Mathematics
+COMP 2655 - Computing Machinery I
+COMP 2613 - Introduction to Computability
+COMP 2631 - Information Structures I
+COMP 2659 - Computing Machinery II
+COMP 2633 - Foundations of Software Engineering
+COMP 3614 - Algorithms and Complexity
+COMP 3649 - Programming Paradigms
+COMP 3659 - Operating Systems
+COMP 3612 - Web Development for Computer Science
+COMP 2521 - Database I: Data Modeling and Query Languages
+COMP 3533 - Network Infrastructure and Security
+COMP 3625 - Artificial Intelligence
+COMP 3553 - Human-Computer Interaction
+COMP 4513 - Web III: Advanced Web Development
+COMP 4622 - Advanced Databases
+COMP 4635 - Distributed Systems
+COMP 4630 - Machine Learning
+COMP 4633 - Advanced Software Engineering
+![image](https://user-images.githubusercontent.com/42070984/193432621-1040080d-8591-4356-b196-17abe881f87c.png)
+
+
+
 ## Supplementary (in addition to Comp Sci Degree)
 |  | **CodeWars** | **Textbooks** | **freeCodeCamp** | **edX** |  
 | ------------- | ------------- | ------------- | ------------- | ------------- |
