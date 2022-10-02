@@ -19,9 +19,9 @@
 ## Comp Sci Degree Courses
 Course  | Status
 ------------- | ------------- 
-COMP 1501/1631 - Introduction to Computer Science I 
-MATH 1200 - Calculus for Scientists I
-MATH 1203 - Linear Algebra for Scientists and Engineers
+COMP 1501/1631 - Introduction to Computer Science I | :arrow_forward: 
+MATH 1200 - Calculus for Scientists I | :arrow_forward: 
+MATH 1203 - Linear Algebra for Scientists and Engineers | :arrow_forward: 
 COMP 1633 - Introduction to Computer Science II 
 MATH 2234 - Concepts of Mathematical Statistics
 PHIL 1179 - Introduction to Symbolic Logic
@@ -45,8 +45,6 @@ COMP 4622 - Advanced Databases
 COMP 4635 - Distributed Systems
 COMP 4630 - Machine Learning
 COMP 4633 - Advanced Software Engineering
-![image](https://user-images.githubusercontent.com/42070984/193432621-1040080d-8591-4356-b196-17abe881f87c.png)
-
 
 
 ## Supplementary (in addition to Comp Sci Degree)
