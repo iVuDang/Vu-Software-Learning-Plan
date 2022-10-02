@@ -4,7 +4,7 @@
 * To outline where I've been, and where I'm going. 
 * Software skills I'd like to develop, and how I will go about it. 
 
-# Business skills 
+# Business skills developed :footprints: 
 [Business Degree](https://imgur.com/krwGlIX "Vu business degree") <br> 
 [Chartered Professional Accountant designation](https://imgur.com/ujGubaD "Vu CPA designation") 
 
