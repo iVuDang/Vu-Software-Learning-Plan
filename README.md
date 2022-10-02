@@ -5,8 +5,8 @@
 * Software skills I'd like to develop, and how I will go about it. 
 
 # Business skills 
-[Business Degree](https://imgur.com/krwGlIX "Named link title") 
-[Chartered Professional Accountant designation](https://imgur.com/ujGubaD "Named link title") 
+[Business Degree](https://imgur.com/krwGlIX "Vu business degree") <br> 
+[Chartered Professional Accountant designation](https://imgur.com/ujGubaD "Vu CPA designation") 
 
 # Software skills to develop :world_map: 
 
