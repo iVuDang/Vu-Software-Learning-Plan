@@ -1,4 +1,4 @@
-# Vu-s-Software-Learning-Plan
+# Vu-Software-Learning-Plan
 
 # Purpose
 * To outline where I've been, and where I'm going. 
