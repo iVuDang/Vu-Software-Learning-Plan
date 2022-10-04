@@ -41,13 +41,9 @@ COMP 3649 - Programming Paradigms
 COMP 3659 - Operating Systems
 COMP 3612 - Web Development for Computer Science
 COMP 2521 - Database I: Data Modeling and Query Languages
-COMP 3533 - Network Infrastructure and Security
-COMP 3625 - Artificial Intelligence
 COMP 3553 - Human-Computer Interaction
 COMP 4513 - Web III: Advanced Web Development
 COMP 4622 - Advanced Databases
-COMP 4635 - Distributed Systems
-COMP 4630 - Machine Learning
 COMP 4633 - Advanced Software Engineering
 
 
