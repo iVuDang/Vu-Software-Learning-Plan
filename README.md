@@ -21,8 +21,8 @@
 
 
 ## Comp Sci Degree 
-Course  | Status
-------------- | ------------- 
+Course  | Status | When
+------------- | ------------- | ------------- 
 COMP 1501/1631 - Introduction to Computer Science I | :arrow_forward: | Fall 2022
 MATH 1200 - Calculus for Scientists I | :arrow_forward: | Fall 2022
 MATH 1203 - Linear Algebra for Scientists and Engineers | :arrow_forward: | Fall 2022
