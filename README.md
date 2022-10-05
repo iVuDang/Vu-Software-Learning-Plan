@@ -23,13 +23,13 @@
 ## Comp Sci Degree 
 Course  | Status
 ------------- | ------------- 
-COMP 1501/1631 - Introduction to Computer Science I | :arrow_forward: 
-MATH 1200 - Calculus for Scientists I | :arrow_forward: 
-MATH 1203 - Linear Algebra for Scientists and Engineers | :arrow_forward: 
-COMP 1633 - Introduction to Computer Science II 
-MATH 2234 - Concepts of Mathematical Statistics
-PHIL 1179 - Introduction to Symbolic Logic
-COMP 3309 - Information Technology and Society
+COMP 1501/1631 - Introduction to Computer Science I | :arrow_forward: | Fall 2022
+MATH 1200 - Calculus for Scientists I | :arrow_forward: | Fall 2022
+MATH 1203 - Linear Algebra for Scientists and Engineers | :arrow_forward: | Fall 2022
+COMP 1633 - Introduction to Computer Science II | | Winter 2023
+MATH 2234 - Concepts of Mathematical Statistics | | Winter 2023
+PHIL 1179 - Introduction to Symbolic Logic | | Winter 2023 
+COMP 3309 - Information Technology and Society | | Winter 2023
 MATH 1271 - Discrete Mathematics
 COMP 2655 - Computing Machinery I
 COMP 2613 - Introduction to Computability
@@ -48,8 +48,8 @@ COMP 4633 - Advanced Software Engineering
 
 
 ## Supplementary (in addition to Comp Sci Degree)
-|  | **CodeWars** | **Textbooks** | **freeCodeCamp** | **edX** |  
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+|  | **CodeWars** | **Textbooks** | **freeCodeCamp** | **edX** | When |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Frequency** | Daily | Daily | Weekend | Weekend |
 | **Quantity** | x1 | 5 pages | 1 hr | 1 hr |
 | 1 | Python :arrow_forward: | 1. 158 - Python (2nd Edition)_ Learn Pyt - LCF Publishing :white_check_mark: | Scientific Computing with Python (Variables, loops, conditionals, functions, data structures, networking, relational databases, data visualization)| CS50's Introduction to Computer Science :arrow_forward: |
