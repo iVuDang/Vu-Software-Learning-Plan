@@ -52,7 +52,7 @@ COMP 4633 - Advanced Software Engineering
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Frequency** | Daily | Daily | Weekend | Weekend |
 | **Quantity** | x1 | 5 pages | 1 hr | 1 hr |
-| 1 | Python :arrow_forward: | 1. 158 - Python (2nd Edition)_ Learn Pyt - LCF Publishing :white_check_mark: | Scientific Computing with Python (Variables, loops, conditionals, functions, data structures, networking, relational databases, data visualization)| CS50's Introduction to Computer Science :arrow_forward: |
+| 1 | Python :arrow_forward: | 1. 158 - Python (2nd Edition)_ Learn Pyt - LCF Publishing :white_check_mark: | Scientific Computing with Python (Variables, loops, conditionals, functions, data structures, networking, relational databases, data visualization)| CS50's Introduction to Computer Science :arrow_forward: | Spring/Summer 2023
 | 2 | SQL :arrow_forward: | 2. 191 - Python Programming for Beginner - Jason Cannon :arrow_forward: | Data Analysis with Python (Numpy, Pandas, Matplotlib, Seaborn)  | Introduction to Computer Science and Programming Using Python |
 | 3 | ------------- | 3. 269 - Coding for Kids_ Python_ Learn - Adrienne B. Tacke | Relational Databases (Bash, PostgreSQL, Git)  | CS50's Web Programming with Python and JavaScript |
 | 4 | ------------- | 4. 505 - automate-the-boring-stuff-with-python-2015 | Machine Learning with Python (TensorFlow, neural networks, natural language processing, reinforcement learning) | ------------- |
