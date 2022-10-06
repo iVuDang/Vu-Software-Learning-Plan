@@ -30,21 +30,21 @@ COMP 1633 - Introduction to Computer Science II | | Winter 2023
 MATH 2234 - Concepts of Mathematical Statistics | | Winter 2023
 PHIL 1179 - Introduction to Symbolic Logic | | Winter 2023 
 COMP 3309 - Information Technology and Society | | Winter 2023
-MATH 1271 - Discrete Mathematics
-COMP 2655 - Computing Machinery I
-COMP 2613 - Introduction to Computability
-COMP 2631 - Information Structures I
-COMP 2659 - Computing Machinery II
-COMP 2633 - Foundations of Software Engineering
-COMP 3614 - Algorithms and Complexity
-COMP 3649 - Programming Paradigms
-COMP 3659 - Operating Systems
-COMP 3612 - Web Development for Computer Science
-COMP 2521 - Database I: Data Modeling and Query Languages
-COMP 3553 - Human-Computer Interaction
-COMP 4513 - Web III: Advanced Web Development
-COMP 4622 - Advanced Databases
-COMP 4633 - Advanced Software Engineering
+MATH 1271 - Discrete Mathematics | Fall 2023
+COMP 2655 - Computing Machinery I | Fall 2023
+COMP 2613 - Introduction to Computability | Fall 2023
+COMP 2631 - Information Structures I | Fall 2023
+COMP 2659 - Computing Machinery II | Winter 2024
+COMP 2633 - Foundations of Software Engineering | Winter 2024
+COMP 3614 - Algorithms and Complexity | Winter 2024
+COMP 3649 - Programming Paradigms | Winter 2024
+COMP 3659 - Operating Systems | Fall 2024
+COMP 3612 - Web Development for Computer Science | Fall 2024
+COMP 2521 - Database I: Data Modeling and Query Languages | Fall 2024
+COMP 3553 - Human-Computer Interaction | Fall 2024
+COMP 4513 - Web III: Advanced Web Development | Winter 2025
+COMP 4622 - Advanced Databases | Winter 2025
+COMP 4633 - Advanced Software Engineering | Winter 2025
 
 
 ## Supplementary (in addition to Comp Sci Degree)
