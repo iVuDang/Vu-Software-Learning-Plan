@@ -2,7 +2,7 @@
 
 # Purpose
 * To outline where I've been, and where I'm going. 
-* Software skills I'd like to develop, and how I will go about it. 
+* Software engineering skills I'd like to develop, and how I will go about it. 
 
 # Business/financial skills developed :footprints: 
 - [x] [Business Degree](https://imgur.com/krwGlIX "Vu business degree") <br> 
