@@ -50,7 +50,7 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 ## Supplementary (in addition to Comp Sci Degree)
 |  | **CodeWars** | **Textbooks** | **freeCodeCamp** | **edX** | When |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| **Frequency** | Daily | Daily | Weekend | Weekend |
+| **Frequency** | Daily | Daily | Weekend | Spring/Summer |
 | **Quantity** | x1 | 5 pages | 1 hr | 1 hr |
 | 1 | Python :arrow_forward:  | 1. 158 - Python (2nd Edition)_ Learn Pyt - LCF Publishing :white_check_mark: | Scientific Computing with Python (Variables, loops, conditionals, functions, data structures, networking, relational databases, data visualization) :arrow_forward: | Harvard CS50's Introduction to Computer Science :arrow_forward: | Spring 2023
 | 2 | SQL | 2. 191 - Python Programming for Beginner - Jason Cannon :arrow_forward: | Data Analysis with Python (Numpy, Pandas, Matplotlib, Seaborn)  | MIT Introduction to Computer Science and Programming Using Python | Summer 2023
