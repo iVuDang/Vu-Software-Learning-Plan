@@ -62,6 +62,7 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 
 ### Power BI - Tutorials 
 |  | Collection |
+| ------------- | ------------- | 
 | 1 | [Design effective reports in Power BI](https://learn.microsoft.com/en-us/users/heyrob/collections/o4dhk4z8xpr8q "Design effective reports in Power BI") :arrow_forward: <br>  |
 | 2 | [Become a Power BI data analyst](https://learn.microsoft.com/en-us/users/microsoftpowerplatform-5978/collections/djwu3eywpk4nm "Become a Power BI data analyst") <br> 
 | 3 | [Create and use analytics reports with Power BI]([https://learn.microsoft.com/en-us/users/microsoftpowerplatform-5978/collections/djwu3eywpk4nm "Create and use analytics reports with Power BI") <br> 
