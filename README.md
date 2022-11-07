@@ -16,7 +16,7 @@
 | **Base Language** | HTML/CSS | JavaScript | **Python** | SQL | Java | 
 | **Frameworks / Libraries** | Bootstrap | React.js | Django, Pandas, Numpys, TensorFlow | ------------- | ------------- | 
 | **Cross-platform** | Express.js / Node.js | MongoDB | ------------- | ------------- | ------------- | 
-| **Data Modeling** | Excel/VBA | ------------- | ------------- | ------------- | ------------- | 
+| **Data Modeling** | Excel/VBA | Power BI/SQL | ------------- | ------------- | ------------- | 
 | **UI/UX DESIGN** | Adobe Premiere Pro | Apple Final Cut Pro | Adobe After Effects | Canva | Adobe Photoshop  | ------------- | 
 
 
