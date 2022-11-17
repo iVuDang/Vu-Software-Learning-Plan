@@ -26,9 +26,9 @@ Course  | Status | When
 COMP 1501/1631 - Introduction to Computer Science I | :arrow_forward: | Fall 2022
 MATH 1200 - Calculus for Scientists I | :arrow_forward: :bangbang: | Fall 2022
 MATH 1203 - Linear Algebra for Scientists and Engineers | :arrow_forward: | Fall 2022
-COMP 1633 - Introduction to Computer Science II | | Winter 2023
+COMP 1633 - Introduction to Computer Science II | :hourglass: | Winter 2023
 MATH 2234 - Concepts of Mathematical Statistics | | Winter 2023
-PHIL 1179 - Introduction to Symbolic Logic | | Winter 2023 
+PHIL 1179 - Introduction to Symbolic Logic | :hourglass: | Winter 2023 
 COMP 3309 - Information Technology and Society | | Winter 2023
 MATH 1271 - Discrete Mathematics | | Fall 2023
 COMP 2655 - Computing Machinery I | | Fall 2023
