@@ -64,8 +64,8 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 |  | Collection |
 | ------------- | ------------- | 
 | 1 | [Design effective reports in Power BI](https://learn.microsoft.com/en-us/users/heyrob/collections/o4dhk4z8xpr8q "Design effective reports in Power BI")  :white_check_mark: |
-| 2 | [Become a Power BI data analyst](https://learn.microsoft.com/en-us/users/microsoftpowerplatform-5978/collections/djwu3eywpk4nm "Become a Power BI data analyst") :arrow_forward: | <br> 
-| 3 | [Create and use analytics reports with Power BI](https://learn.microsoft.com/en-us/training/paths/create-use-analytics-reports-power-bi/ "Create and use analytics reports with Power BI") |
+| 2 | [Become a Power BI data analyst](https://learn.microsoft.com/en-us/users/microsoftpowerplatform-5978/collections/djwu3eywpk4nm "Become a Power BI data analyst") :white_check_mark: | <br> 
+| 3 | [Create and use analytics reports with Power BI](https://learn.microsoft.com/en-us/training/paths/create-use-analytics-reports-power-bi/ "Create and use analytics reports with Power BI") :arrow_forward: |
 | 4 | [Introduction to creating measures using DAX in Power BI](https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/ "Introduction to creating measures using DAX in Power BI") | 
 | 5 | [Use DAX in Power BI Desktop](https://learn.microsoft.com/en-us/training/paths/dax-power-bi/ "Use DAX in Power BI Desktop") |  <br> 
 
