@@ -17,7 +17,6 @@
 - [x] [Chartered Professional Accountant designation](https://imgur.com/ujGubaD "Vu CPA designation") 
 
 <br>
-
 - - - -
 # Software/engineering skills to develop :world_map: 
 
