@@ -6,10 +6,10 @@
 * Other skills, places, things I'd like to achieve. 
 
 **Legend**:
-* :seedling: - Developed experience with room to grow.
-* :arrow_forward: - Currently developing experience. 
-* :hourglass: - Development on hold (to prioritize the skills with blue arrows).
-* :white_check_mark: - Completed. 
+* :seedling: Developed experience with room to grow.
+* :arrow_forward: Current focus. 
+* :hourglass: Development on hold (to prioritize the skills with blue arrows).
+* :white_check_mark: Completed. 
 
 - - - -
 # Business/financial skills developed :footprints: 
