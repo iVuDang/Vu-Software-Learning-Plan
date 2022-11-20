@@ -16,7 +16,6 @@
 - [x] [Business Degree](https://imgur.com/krwGlIX "Vu business degree") <br> 
 - [x] [Chartered Professional Accountant designation](https://imgur.com/ujGubaD "Vu CPA designation") 
 
-<br>
 - - - -
 # Software/engineering skills to develop :world_map: 
 
@@ -30,7 +29,6 @@
 | **UI/UX DESIGN** | Adobe Premiere Pro :arrow_forward: | Apple Final Cut Pro | Adobe After Effects | Canva :white_check_mark: | Adobe Photoshop  | ----- | 
 
 
-<br>
 - - - -
 ## Comp Sci Degree 
 Course  | Status | When
@@ -59,8 +57,6 @@ COMP 4622 - Advanced Databases | | Winter 2025
 COMP 4633 - Advanced Software Engineering | | Winter 2025
 
 
-<br>
-- - - -
 ## Supplementary (in addition to Comp Sci Degree)
 |  | **CodeWars** | **Textbooks** | **freeCodeCamp** | **edX** | When |
 | ----- | ----- | ----- | ----- | ----- | ----- |
