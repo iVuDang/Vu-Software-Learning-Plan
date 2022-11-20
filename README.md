@@ -107,8 +107,8 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 2. USA
 3. Japan [Tokyo, Osaka, Kyoto]
 4. Thailand [Bangkok, Pattaya, Phuket]
-5. Colombia [Bogota, Medellin, Cali, Cartagena, Santa Marta, San Andres, Guatape, Zipaquira]
-6. Mexico [
+5. Colombia [Bogota, Medellin, Cali, Cartagena, Santa Marta, San Andres, Guatape, Zipaquira, Minca]
+6. Mexico [Tijuana, Cabo San Lucas, Guadalajara, Puerto Vallarta, Mexico City, Oaxaca, Tuxtla, San Cristobal, Palenque, Cancun, Valladolid, Cozumel, Playa del Carmen, Cozumel]
 7. Dominican Republic
 8. Costa Rica
 9. Brazil
