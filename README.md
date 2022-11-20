@@ -103,7 +103,18 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 ## World Locations
 
 ### Visited
-:jp:
+1. Canada
+2. USA
+3. Japan
+4. Thailand
+5. Colombia
+6. Mexico
+7. Dominican Republic
+8. Costa Rica
+9. Brazil
+10. Vietnam
+11. Indonesia
+12. Singapore 
 
 ### Next to Visit 
 
