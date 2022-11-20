@@ -5,10 +5,10 @@
 * Software engineering skills I'd like to develop, and how I will go about it. 
 
 **Legend**:
-:seedling: - Developed experience with room to grow 
-:arrow_forward: - Currently developing experience 
- :hourglass: - Development on hold (to prioritize the skills with blue arrows)
-:white_check_mark: - Completed. 
+* :seedling: - Developed experience with room to grow 
+* :arrow_forward: - Currently developing experience 
+* :hourglass: - Development on hold (to prioritize the skills with blue arrows)
+* :white_check_mark: - Completed. 
 
 
 # Business/financial skills developed :footprints: 
