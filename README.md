@@ -102,7 +102,7 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 
 ## World Locations
 
-### Visited
+### Visited:
 1. Canada [Calgary, Vancouver, Toronto] 
 2. USA [San Diego, San Jose, San Francisco, Los Angelas, Las Vegas, New York]
 3. Japan [Tokyo, Osaka, Kyoto]
@@ -116,7 +116,7 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 11. Indonesia [Bali [Badung, Gianyar, Buleleng]]
 12. Singapore 
 
-### Next to Visit 
+### Next to Visit:
 - [ ] Phillipines
 - [ ] Spain
 - [ ] Greece
