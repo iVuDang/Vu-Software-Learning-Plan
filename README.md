@@ -15,8 +15,8 @@
 
 - - - -
 # Business/financial skills developed :footprints: 
-- [x] [Business Degree](https://imgur.com/krwGlIX "Vu business degree") :white_check_mark:  <br> 
-- [x] [Chartered Professional Accountant designation](https://imgur.com/ujGubaD "Vu CPA designation") :white_check_mark:
+- [x] [Business Degree](https://imgur.com/krwGlIX "Vu business degree") <br> 
+- [x] [Chartered Professional Accountant designation](https://imgur.com/ujGubaD "Vu CPA designation") 
 
 <br>
 
