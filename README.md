@@ -117,21 +117,21 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 12. Singapore 
 
 ### Next to Visit 
-[ ] Phillipines
-[ ] Spain
-[ ] Greece
-[ ] Czech Republic
-[ ] Croatia
-[ ] Hungary
-[ ] Maldives
-[ ] Israel
-[ ] Cuba
-[ ] Aruba 
-[ ] Curacao
-[ ] Grenada
-[ ] Argentina
-[ ] Peru
-[ ] Panama
+- [ ] Phillipines
+- [ ] Spain
+- [ ] Greece
+- [ ] Czech Republic
+- [ ] Croatia
+- [ ] Hungary
+- [ ] Maldives
+- [ ] Israel
+- [ ] Cuba
+- [ ] Aruba 
+- [ ] Curacao
+- [ ] Grenada
+- [ ] Argentina
+- [ ] Peru
+- [ ] Panama
 
 
 <br>
