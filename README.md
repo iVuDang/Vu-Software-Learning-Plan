@@ -5,9 +5,9 @@
 * Software engineering skills I'd like to develop, and how I will go about it. 
 
 **Legend**:
-* :seedling: - Developed experience with room to grow 
-* :arrow_forward: - Currently developing experience 
-* :hourglass: - Development on hold (to prioritize the skills with blue arrows)
+* :seedling: - Developed experience with room to grow.
+* :arrow_forward: - Currently developing experience. 
+* :hourglass: - Development on hold (to prioritize the skills with blue arrows).
 * :white_check_mark: - Completed. 
 
 
@@ -20,7 +20,7 @@
 ## Software Stack 
 |  | 1 | 2 | 3 | 4 | 5 |  
 | ----- | ----- | ----- | ----- | ----- |----- | 
-| **Base Languages** | HTML/CSS | JavaScript | **Python** | SQL | Java | 
+| **Base Languages** | HTML/CSS :seedling: | JavaScript :seedling: | **Python** :arrow_forward: | SQL :seedling: | Java | 
 | **Frameworks / Libraries** | Bootstrap | React.js | Django, Pandas, Numpys, TensorFlow | ----- | ----- | 
 | **Cross-platform** | Express.js / Node.js | MongoDB | ----- | ----- | ----- | 
 | **Data Modeling** | Excel / VBA | Power BI / DAX | ----- | ----- | ----- | 
