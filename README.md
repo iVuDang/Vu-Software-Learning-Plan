@@ -103,17 +103,17 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 ## World Locations
 
 ### Visited
-1. Canada
-2. USA
+1. Canada [Calgary, Vancouver, Toronto] 
+2. USA [San Diego, San Jose, San Francisco, Los Angelas, Las Vegas, New York]
 3. Japan [Tokyo, Osaka, Kyoto]
 4. Thailand [Bangkok, Pattaya, Phuket]
 5. Colombia [Bogota, Medellin, Cali, Cartagena, Santa Marta, San Andres, Guatape, Zipaquira, Minca]
 6. Mexico [Tijuana, Cabo San Lucas, Guadalajara, Puerto Vallarta, Mexico City, Oaxaca, Tuxtla, San Cristobal, Palenque, Cancun, Valladolid, Cozumel, Playa del Carmen, Cozumel]
-7. Dominican Republic
-8. Costa Rica
-9. Brazil
-10. Vietnam
-11. Indonesia
+7. Dominican Republic [Punta Cana, Santo Domingo]
+8. Costa Rica [San Jose, La Fortuna, Tamarindo, Liberia]
+9. Brazil [Rio de Janeiro, Foz do Iguacu, Florianopolis, Recife, Sao Paulo, Bonito]
+10. Vietnam [Hanoi, Ha Long, Da Nang, Nha Trang, Saigon]
+11. Indonesia [Bali [Badung, Gianyar, Buleleng]]
 12. Singapore 
 
 ### Next to Visit 
