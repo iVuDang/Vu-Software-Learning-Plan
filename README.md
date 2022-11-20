@@ -9,7 +9,7 @@
 * :seedling: Developed experience with room to grow.
 * :arrow_forward: Current focus. 
 * :hourglass: Development on hold (to prioritize the skills with blue arrows).
-* :white_check_mark: Completed. 
+* :white_check_mark: Completed or competent. 
 
 - - - -
 # Business/financial skills developed :footprints: 
@@ -25,8 +25,8 @@
 | **Base Languages** | HTML/CSS :seedling: | JavaScript :seedling: | **Python** :arrow_forward: | SQL :seedling: | Java | 
 | **Frameworks / Libraries** | Bootstrap | React.js | Django, Pandas, Numpys, TensorFlow | ----- | ----- | 
 | **Cross-platform** | Express.js / Node.js | MongoDB | ----- | ----- | ----- | 
-| **Data Modeling** | Excel / VBA | Power BI / DAX | ----- | ----- | ----- | 
-| **UI/UX DESIGN** | Adobe Premiere Pro | Apple Final Cut Pro | Adobe After Effects | Canva | Adobe Photoshop  | ----- | 
+| **Data Modeling** | Excel / VBA :white_check_mark: | Power BI / DAX :arrow_forward: | ----- | ----- | ----- | 
+| **UI/UX DESIGN** | Adobe Premiere Pro :arrow_forward: | Apple Final Cut Pro | Adobe After Effects | Canva :white_check_mark: | Adobe Photoshop  | ----- | 
 
 
 ## Comp Sci Degree 
