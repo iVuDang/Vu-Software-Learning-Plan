@@ -3,6 +3,13 @@
 # Purpose
 * To outline where I've been, and where I'm going. 
 * Software engineering skills I'd like to develop, and how I will go about it. 
+```
+Legend:
+:seedling: - Developed experience with room to grow 
+:arrow_forward: - Currently developing experience 
+ :hourglass: - Development on hold (to prioritize the skills with blue arrows)
+:white_check_mark: - Completed. 
+```
 
 # Business/financial skills developed :footprints: 
 - [x] [Business Degree](https://imgur.com/krwGlIX "Vu business degree") <br> 
