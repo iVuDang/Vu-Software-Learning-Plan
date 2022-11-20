@@ -16,6 +16,8 @@
 - [x] [Business Degree](https://imgur.com/krwGlIX "Vu business degree") <br> 
 - [x] [Chartered Professional Accountant designation](https://imgur.com/ujGubaD "Vu CPA designation") 
 
+<br>
+
 - - - -
 # Software/engineering skills to develop :world_map: 
 
