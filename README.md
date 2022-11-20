@@ -33,8 +33,6 @@
 | **UI/UX DESIGN** | Adobe Premiere Pro :arrow_forward: | Apple Final Cut Pro | Adobe After Effects | Canva :white_check_mark: | Adobe Photoshop  | ----- | 
 
 
-<br>
-
 - - - -
 ## Comp Sci Degree 
 Course  | Status | When
@@ -62,7 +60,6 @@ COMP 4513 - Web III: Advanced Web Development | | Winter 2025
 COMP 4622 - Advanced Databases | | Winter 2025
 COMP 4633 - Advanced Software Engineering | | Winter 2025
 
-<br>
 
 - - - -
 ## Supplementary (in addition to Comp Sci Degree)
@@ -85,7 +82,7 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 | 3 | [Create and use analytics reports with Power BI](https://learn.microsoft.com/en-us/training/paths/create-use-analytics-reports-power-bi/ "Create and use analytics reports with Power BI")  :white_check_mark: |
 | 4 | [Introduction to creating measures using DAX in Power BI](https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/ "Introduction to creating measures using DAX in Power BI")  :white_check_mark: | 
 | 5 | [Use DAX in Power BI Desktop](https://learn.microsoft.com/en-us/training/paths/dax-power-bi/ "Use DAX in Power BI Desktop") :arrow_forward: |  <br> 
-| 2 | [Become a Power BI data analyst](https://learn.microsoft.com/en-us/users/microsoftpowerplatform-5978/collections/djwu3eywpk4nm "Become a Power BI data analyst")  | <br> 
+| 2 | [Become a Power BI data analyst](https://learn.microsoft.com/en-us/users/microsoftpowerplatform-5978/collections/djwu3eywpk4nm "Become a Power BI data analyst")  | 
 
 
 <br>
