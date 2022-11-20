@@ -56,7 +56,7 @@ COMP 4513 - Web III: Advanced Web Development | | Winter 2025
 COMP 4622 - Advanced Databases | | Winter 2025
 COMP 4633 - Advanced Software Engineering | | Winter 2025
 
-
+- - - -
 ## Supplementary (in addition to Comp Sci Degree)
 |  | **CodeWars** | **Textbooks** | **freeCodeCamp** | **edX** | When |
 | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -80,7 +80,7 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 | 2 | [Become a Power BI data analyst](https://learn.microsoft.com/en-us/users/microsoftpowerplatform-5978/collections/djwu3eywpk4nm "Become a Power BI data analyst")  | <br> 
 
 
-
+- - - -
 # Other skills to develop :airplane:
 ## Human languages 
 | Primero  | Segundo | Tercero | 
@@ -92,6 +92,7 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 | ----- | ----- | ----- |
 | Muay Thai / Boxing | Judo / Wrestling | Jiu-Jitsu | 
 
+- - - -
 ## Inspirational Characters
 **Zuko** <br>
 <img src="https://i.imgur.com/VB5JNWE.jpg" width=30% height=30%>
