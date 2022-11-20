@@ -99,6 +99,15 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 | ----- | ----- | ----- |
 | Muay Thai / Boxing | Judo / Wrestling | Jiu-Jitsu | 
 
+
+## World Locations
+
+### Visited
+:jp:
+
+### Next to Visit 
+
+
 <br>
 
 - - - -
