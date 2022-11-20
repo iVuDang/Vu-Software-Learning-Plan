@@ -33,6 +33,8 @@
 | **UI/UX DESIGN** | Adobe Premiere Pro :arrow_forward: | Apple Final Cut Pro | Adobe After Effects | Canva :white_check_mark: | Adobe Photoshop  | ----- | 
 
 
+<br>
+
 - - - -
 ## Comp Sci Degree 
 Course  | Status | When
@@ -60,6 +62,8 @@ COMP 4513 - Web III: Advanced Web Development | | Winter 2025
 COMP 4622 - Advanced Databases | | Winter 2025
 COMP 4633 - Advanced Software Engineering | | Winter 2025
 
+<br>
+
 - - - -
 ## Supplementary (in addition to Comp Sci Degree)
 |  | **CodeWars** | **Textbooks** | **freeCodeCamp** | **edX** | When |
@@ -84,6 +88,8 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 | 2 | [Become a Power BI data analyst](https://learn.microsoft.com/en-us/users/microsoftpowerplatform-5978/collections/djwu3eywpk4nm "Become a Power BI data analyst")  | <br> 
 
 
+<br>
+
 - - - -
 # Other skills to develop :airplane:
 ## Human languages 
@@ -95,6 +101,8 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 | Striking  | Takedown | Ground |
 | ----- | ----- | ----- |
 | Muay Thai / Boxing | Judo / Wrestling | Jiu-Jitsu | 
+
+<br>
 
 - - - -
 ## Inspirational Characters
