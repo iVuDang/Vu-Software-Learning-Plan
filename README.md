@@ -116,7 +116,7 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 11. Indonesia [Bali [Badung, Gianyar, Buleleng]]
 12. Singapore 
 
-### Next to Visit:
+### To Visit Next:
 - [ ] Phillipines
 - [ ] Spain
 - [ ] Greece
