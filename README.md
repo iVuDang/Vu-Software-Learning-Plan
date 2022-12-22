@@ -139,7 +139,7 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 - - - -
 ## Inspirational Characters
 **Zuko** <br>
-<img src="https://i.imgur.com/VB5JNWE.jpg" width=30% height=30%>
+<img src="https://imgur.com/a/S0YHWHV.jpg" width=30% height=30%>
 
 **Roku** <br>
 <img src="https://imgur.com/NCOVvY1.jpg" width=30% height=30%>
