@@ -29,7 +29,7 @@
 | **Base Languages** | HTML/CSS :seedling: | JavaScript :seedling: | **Python** :arrow_forward: | SQL :seedling: | Java | 
 | **Frameworks / Libraries** | Bootstrap | React.js | Django, Pandas, Numpys, TensorFlow | ----- | ----- | 
 | **Cross-platform** | Express.js / Node.js | MongoDB | ----- | ----- | ----- | 
-| **Data Modeling** | Excel / VBA :white_check_mark: | Power BI / DAX :arrow_forward: | ----- | ----- | ----- | 
+| **Data Modeling** | Excel / VBA :white_check_mark: | Power BI / DAX :white_check_mark: | ----- | ----- | ----- | 
 | **UI/UX DESIGN** | Adobe Premiere Pro :arrow_forward: | Apple Final Cut Pro | Adobe After Effects | Canva :white_check_mark: | Adobe Photoshop  | ----- | 
 
 
@@ -37,7 +37,7 @@
 ## Comp Sci Degree 
 Course  | Status | When
 ----- | ----- | ----- 
-COMP 1501/1631 - Introduction to Computer Science I | :arrow_forward: | Fall 2022
+COMP 1501/1631 - Introduction to Computer Science I | :white_check_mark: | Fall 2022
 MATH 1200 - Calculus for Scientists I | :arrow_forward: :bangbang: | Fall 2022
 MATH 1203 - Linear Algebra for Scientists and Engineers | :arrow_forward: | Fall 2022
 COMP 1633 - Introduction to Computer Science II | :hourglass: | Winter 2023
