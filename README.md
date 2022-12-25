@@ -25,7 +25,7 @@
 
 ## Software Stack 
 |  | 1 | 2 | 3 | 4 | 5 | 6 |
-| ----- | ----- | ----- | ----- | ----- |----- | 
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | 
 | **Base Languages** | HTML/CSS :seedling: | JavaScript :seedling: | **Python** :arrow_forward: | SQL :seedling: | C++ | Java |
 | **Frameworks / Libraries** | Bootstrap | React.js | Django, Pandas, Numpys, TensorFlow | ----- | ----- | ----- | 
 | **Cross-platform** | Express.js / Node.js | MongoDB | ----- | ----- | ----- | ----- | 
