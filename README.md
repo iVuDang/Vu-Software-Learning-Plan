@@ -67,7 +67,7 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 | ----- | ----- | ----- | ----- | ----- | ----- |
 | **Frequency** | Daily | Daily | Daily | Spring/Summer |
 | **Quantity** | x1 | 5 pages | 1 lesson | 1 lesson |
-| 1 | Python :hourglass: | 1. 158 - Python (2nd Edition)_ Learn Pyt - LCF Publishing :white_check_mark: | Scientific Computing with Python (Variables, loops, conditionals, functions, data structures, networking, relational databases, data visualization) :arrow_forward: | Harvard CS50's Introduction to Computer Science :hourglass: | Spring 2023
+| 1 | Python :arrow_forward: | 1. 158 - Python (2nd Edition)_ Learn Pyt - LCF Publishing :white_check_mark: | Scientific Computing with Python (Variables, loops, conditionals, functions, data structures, networking, relational databases, data visualization) :arrow_forward: | Harvard CS50's Introduction to Computer Science :hourglass: | Spring 2023
 | 2 | JavaScript :hourglass: | 2. 191 - Python Programming for Beginner - Jason Cannon :arrow_forward: | Data Analysis with Python (Numpy, Pandas, Matplotlib, Seaborn)  :hourglass: | MIT Introduction to Computer Science and Programming Using Python | Summer 2023
 | 3 | SQL :hourglass: | 3. 269 - Coding for Kids_ Python_ Learn - Adrienne B. Tacke | Machine Learning with Python (TensorFlow, neural networks, natural language processing, reinforcement learning) :hourglass: | Harvard CS50's Web Programming with Python and JavaScript | Spring 2024
 | 4 | ----- | 4. 505 - automate-the-boring-stuff-with-python-2015 | Relational Databases (Bash, PostgreSQL, Git) | ----- | Summer 2024
