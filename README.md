@@ -72,7 +72,7 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 | 3 | SQL :hourglass: | 3. 269 - Coding for Kids_ Python_ Learn - Adrienne B. Tacke | Machine Learning with Python (TensorFlow, neural networks, natural language processing, reinforcement learning) :hourglass: | Harvard CS50's Web Programming with Python and JavaScript | Spring 2024
 | 4 | C++ | 4. 505 - automate-the-boring-stuff-with-python-2015 | Relational Databases (Bash, PostgreSQL, Git) | ----- | Summer 2024
 | 5 | Java | 5. 562 - python-crash-course | ----- | ----- |
-| 6 | ----- | ----- | ----- | ----- |
+| 6 | ----- | 6. Gayle McDowell - Cracking the Code Interview | ----- | ----- |
 
 
 ### Power BI - Tutorials 
