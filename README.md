@@ -27,9 +27,9 @@
 |  | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | 
 | **Base Languages** | HTML/CSS :seedling: | JavaScript :seedling: | **Python** :arrow_forward: | SQL :seedling: | C++ | Java |
-| **Frameworks / Libraries** | Bootstrap | React.js | Django, Pandas, Numpys, TensorFlow | ----- | ----- | ----- | 
-| **Cross-platform** | Express.js / Node.js | MongoDB | ----- | ----- | ----- | ----- | 
-| **Data Modeling** | Excel / VBA :white_check_mark: | Power BI / DAX :white_check_mark: | ----- | ----- | ----- | ----- | 
+| **Frameworks / Libraries** | Bootstrap | React.js | Django, Pandas, Numpys, TensorFlow | 
+| **Cross-platform** | Express.js / Node.js | MongoDB | 
+| **Data Modeling** | Excel / VBA :white_check_mark: | Power BI / DAX :white_check_mark: |
 | **UI/UX Design & Media Production** | Adobe Premiere Pro :arrow_forward: | Adobe After Effects | Adobe Photoshop | Adobe Illustrator | Adobe XD | Adobe Dreamweaver | Canva :white_check_mark: |
 
 
