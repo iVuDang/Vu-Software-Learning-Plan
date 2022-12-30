@@ -42,7 +42,7 @@
 
 
 - - - -
-## Comp Sci Degree 
+## Computer Science Degree 
 Course  | Status | When
 ----- | ----- | ----- 
 COMP 1501/1631 - Introduction to Computer Science I | :white_check_mark: | Fall 2022
@@ -70,7 +70,7 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 
 
 - - - -
-## Supplementary (in addition to Comp Sci Degree)
+## Supplementary Courses & Certifications (in addition to Comp Sci Degree)
 | #        | **CodeWars** | **Textbooks** | **freeCodeCamp** | **edX**       |  **The Odin Project** | When |
 | ---      | ---          | ---           | -----            | ---           | ---                   | ---  |
 | **Freq** | Daily        | Daily         | Daily            | Spring/Summer | 3rd Year              |      |
