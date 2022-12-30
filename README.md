@@ -34,8 +34,8 @@
 
 
 ## UI/UX Design & Media production stack 
-|  | 1 | 2 | 3 | 4 | 5 | 6 | 
-| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+|  | 1 | 2 | 3 | 
+| ----- | ----- | ----- | ----- | 
 | **Video** | Adobe Premiere Pro :arrow_forward: | Adobe After Effects |
 | **Photo** | Canva :white_check_mark: | Adobe Photoshop | Adobe Illustrator | 
 | **UI/UX Design** | Adobe XD | Adobe Dreamweaver | 
