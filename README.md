@@ -2,7 +2,7 @@
 
 # Purpose
 * To outline where I've been, and where I'm going. 
-* Software engineering skills I'd like to develop, and how I will go about it. 
+* Software engineering & media production skills I'd like to develop, and how I will go about it. 
 * Other skills, places, things I'd like to achieve. 
 
 **Legend**:
