@@ -37,7 +37,7 @@
 |  | 1 | 2 | 3 | 
 | ----- | ----- | ----- | ----- | 
 | **Video** | Adobe Premiere Pro :arrow_forward: | Adobe After Effects |
-| **Photo** | Canva :white_check_mark: | Adobe Photoshop | Adobe Illustrator | 
+| **Photo** | Adobe Photoshop | Adobe Illustrator | Canva :white_check_mark: | 
 | **UI/UX Design** | Adobe XD | Adobe Dreamweaver | 
 
 
