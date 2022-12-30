@@ -30,7 +30,7 @@
 | **Frameworks / Libraries** | Bootstrap | React.js | Django, Pandas, Numpys, TensorFlow | ----- | ----- | ----- | 
 | **Cross-platform** | Express.js / Node.js | MongoDB | ----- | ----- | ----- | ----- | 
 | **Data Modeling** | Excel / VBA :white_check_mark: | Power BI / DAX :white_check_mark: | ----- | ----- | ----- | ----- | 
-| **UI/UX DESIGN** | Adobe Premiere Pro :arrow_forward: | Apple Final Cut Pro | Adobe After Effects | Canva :white_check_mark: | Adobe Photoshop  | ----- | ----- | 
+| **UI/UX DESIGN** | Adobe Premiere Pro :arrow_forward: | Canva :white_check_mark: | Adobe After Effects | Adobe Photoshop | ----- | ----- | ----- | 
 
 
 - - - -
