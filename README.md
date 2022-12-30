@@ -33,7 +33,7 @@
 
 
 
-## UI/UX Design & Media production stack 
+## UI/UX design & Media production stack 
 |  | 1 | 2 | 3 | 
 | ----- | ----- | ----- | ----- | 
 | **Video** | Adobe Premiere Pro :arrow_forward: | Adobe After Effects |
