@@ -23,14 +23,14 @@
 - - - -
 # Software/engineering skills to develop :world_map: 
 
-## Software Stack 
+## Software & Media Stack 
 |  | 1 | 2 | 3 | 4 | 5 | 6 |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | 
 | **Base Languages** | HTML/CSS :seedling: | JavaScript :seedling: | **Python** :arrow_forward: | SQL :seedling: | C++ | Java |
 | **Frameworks / Libraries** | Bootstrap | React.js | Django, Pandas, Numpys, TensorFlow | ----- | ----- | ----- | 
 | **Cross-platform** | Express.js / Node.js | MongoDB | ----- | ----- | ----- | ----- | 
 | **Data Modeling** | Excel / VBA :white_check_mark: | Power BI / DAX :white_check_mark: | ----- | ----- | ----- | ----- | 
-| **UI/UX Design** | Adobe Premiere Pro :arrow_forward: | Adobe After Effects | Adobe Photoshop | Adobe Illustrator | Adobe XD | Adobe Dreamweaver | 
+| **UI/UX Design & Media Production** | Adobe Premiere Pro :arrow_forward: | Adobe After Effects | Adobe Photoshop | Adobe Illustrator | Adobe XD | Adobe Dreamweaver | 
 
 
 - - - -
