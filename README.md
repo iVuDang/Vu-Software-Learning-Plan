@@ -134,6 +134,7 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 - [ ] Phillipines
 - [ ] Spain
 - [ ] Greece
+- [ ] Portugal 
 - [ ] Czech Republic
 - [ ] Croatia
 - [ ] Hungary
