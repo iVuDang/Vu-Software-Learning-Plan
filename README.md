@@ -14,14 +14,14 @@
 <br>
 
 - - - -
-# Business/financial skills developed :footprints: 
+# :footprints: Business/financial skills developed 
 - [x] [Business Degree](https://imgur.com/krwGlIX "Vu business degree") <br> 
 - [x] [Chartered Professional Accountant designation](https://imgur.com/ujGubaD "Vu CPA designation") 
 
 <br>
 
 - - - -
-# Software/engineering skills to develop :world_map: 
+# :world_map:  Software/engineering skills to develop 
 
 ## Software engineering stack 
 |  | 1 | 2 | 3 | 4 | 5 | 6 | 
@@ -102,7 +102,7 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 <br>
 
 - - - -
-# Other skills to develop :airplane:
+# :airplane: Other skills to develop 
 ## Human languages 
 | Primero  | Segundo | Tercero | 
 | ----- | ----- | ----- | 
