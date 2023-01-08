@@ -79,13 +79,13 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 | 2        | JavaScript :hourglass: | 2. 191 - Python Programming for Beginner - Jason Cannon :white_check_mark:  | Data Analysis with Python (Numpy, Pandas, Matplotlib, Seaborn)  :hourglass: | MIT Introduction to Computer Science and Programming Using Python | Full Stack JavaScript | Summer 2023
 | 3        | SQL :hourglass: | 3. 562 - python-crash-course | Machine Learning with Python (TensorFlow, neural networks, natural language processing, reinforcement learning) :hourglass: | Harvard CS50's Web Programming with Python and JavaScript | ----- | Spring 2024
 | 4        | C++ :arrow_forward: | 4. 505 - automate-the-boring-stuff-with-python-2015 | Relational Databases (Bash, PostgreSQL, Git) :hourglass: | ----- | ----- | Summer 2024
-| 5        | Java | -----  | Responsive Web Design (HTML, CSS, Flexbox, CSS Grid) :white_check_mark: | ----- | ----- | ----- |
-| 6        | ----- | 6. Gayle McDowell - Cracking the Code Interview | JavaScript Algorithms and Data Structures (A ton of JavaScript, including variables, arrays, objects, functions, object oriented programming and functional programming) :white_check_mark: | ----- | ----- | ----- |
-| 7        | ----- | 7. [C++ for Python Programmers](https://runestone.academy/ns/books/published/cpp4python/index.html)  :arrow_forward: | Front End Development Libraries (React, Redux, Sass, Bootstrap, jQuery) :hourglass: | ----- | ----- | ----- |
-| 8        | ----- | Programming: Principles and Practice Using C++ - Bjarne Stroustrup :arrow_forward: | Back End Development and APIs (Node.js, Express, Mongo, Mongoose) :hourglass: | ----- | ----- | ----- |
+| 5        | Java | 5. [C++ for Python Programmers](https://runestone.academy/ns/books/published/cpp4python/index.html)  :arrow_forward: | Responsive Web Design (HTML, CSS, Flexbox, CSS Grid) :white_check_mark: | ----- | ----- | ----- |
+| 6        | ----- | 6. [learncpp.com](https://www.learncpp.com/)  :arrow_forward: | JavaScript Algorithms and Data Structures (A ton of JavaScript, including variables, arrays, objects, functions, object oriented programming and functional programming) :white_check_mark: | ----- | ----- | ----- |
+| 7        | ----- | 7. Programming: Principles and Practice Using C++ - Bjarne Stroustrup :arrow_forward: | Front End Development Libraries (React, Redux, Sass, Bootstrap, jQuery) :hourglass: | ----- | ----- | ----- |
+| 8        | ----- | -----  | Back End Development and APIs (Node.js, Express, Mongo, Mongoose) :hourglass: | ----- | ----- | ----- |
 | 9        | ----- | ----- | Data Visualization (D3.js) | ----- | ----- | ----- |
 | 10       | ----- | ----- | Quality Assurance (Chai, Pug, Passport, Socket.io) | ----- | ----- | ----- |
-| 11       | ----- | ----- | Information Security (HelmetJS, TCP, Nmap, basic penetration testing) | ----- | ----- | ----- |
+| 11       | ----- | Gayle McDowell - Cracking the Code Interview| Information Security (HelmetJS, TCP, Nmap, basic penetration testing) | ----- | ----- | ----- |
 
 
 
