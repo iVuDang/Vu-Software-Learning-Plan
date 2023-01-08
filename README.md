@@ -82,7 +82,7 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 | 5        | Java | 5. 562 - python-crash-course | Responsive Web Design (HTML, CSS, Flexbox, CSS Grid) :white_check_mark: | ----- | ----- | ----- |
 | 6        | ----- | 6. Gayle McDowell - Cracking the Code Interview | JavaScript Algorithms and Data Structures (A ton of JavaScript, including variables, arrays, objects, functions, object oriented programming and functional programming) :white_check_mark: | ----- | ----- | ----- |
 | 7        | ----- | 7. [C++ for Python Programmers](https://runestone.academy/ns/books/published/cpp4python/index.html)  :arrow_forward: | Front End Development Libraries (React, Redux, Sass, Bootstrap, jQuery) :hourglass: | ----- | ----- | ----- |
-| 8        | ----- | Programming: Principles and Practice Using C++ :arrow_forward: | Back End Development and APIs (Node.js, Express, Mongo, Mongoose) :hourglass: | ----- | ----- | ----- |
+| 8        | ----- | Programming: Principles and Practice Using C++ - Bjarne Stroustrup :arrow_forward: | Back End Development and APIs (Node.js, Express, Mongo, Mongoose) :hourglass: | ----- | ----- | ----- |
 | 9        | ----- | ----- | Data Visualization (D3.js) | ----- | ----- | ----- |
 | 10       | ----- | ----- | Quality Assurance (Chai, Pug, Passport, Socket.io) | ----- | ----- | ----- |
 | 11       | ----- | ----- | Information Security (HelmetJS, TCP, Nmap, basic penetration testing) | ----- | ----- | ----- |
