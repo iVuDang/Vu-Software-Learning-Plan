@@ -57,8 +57,7 @@ COMP 2655 - Computing Machinery I | | Fall 2023
 COMP 2613 - Introduction to Computability | | Fall 2023
 COMP 2631 - Information Structures I | | Fall 2023
 COMP 2659 - Computing Machinery II | | Winter 2024
-COMP 2633 - 
-s of Software Engineering | | Winter 2024
+COMP 2633 - Foundations of Software Engineering | | Winter 2024
 COMP 3614 - Algorithms and Complexity | | Winter 2024
 COMP 3649 - Programming Paradigms | | Winter 2024
 COMP 3659 - Operating Systems | | Fall 2024
