@@ -25,7 +25,7 @@
 
 ## Software engineering stack 
 |  | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | **Base Languages** | HTML/CSS :seedling: | JavaScript (mobile) :seedling: | **Python** :seedling: | SQL :seedling: | C++ (mobile) :arrow_forward: | Java (IOS mobile) | Swift (IOS mobile) | 
 | **Frameworks / Libraries** | Bootstrap | React.js | Django, Pandas, Numpys, TensorFlow | 
 | **Cross-platform** | Express.js / Node.js | MongoDB | 
