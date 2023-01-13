@@ -24,9 +24,9 @@
 # :world_map:  Software/engineering skills to develop 
 
 ## Software engineering stack 
-|  | 1 | 2 | 3 | 4 | 5 | 6 | 
+|  | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| **Base Languages** | HTML/CSS :seedling: | JavaScript (mobile) :seedling: | **Python** :seedling: | SQL :seedling: | C++ (AOS mobile) :arrow_forward: | Java (IOS mobile) | Swift (IOS mobile) | 
+| **Base Languages** | HTML/CSS :seedling: | JavaScript (mobile) :seedling: | **Python** :seedling: | SQL :seedling: | C++ (mobile) :arrow_forward: | Java (IOS mobile) | Swift (IOS mobile) | 
 | **Frameworks / Libraries** | Bootstrap | React.js | Django, Pandas, Numpys, TensorFlow | 
 | **Cross-platform** | Express.js / Node.js | MongoDB | 
 | **Data Modeling** | Excel / VBA :white_check_mark: | Power BI / DAX :white_check_mark: |
