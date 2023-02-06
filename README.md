@@ -81,7 +81,7 @@ COMP 4633 - Advanced Software Engineering | | Winter 2025
 | 4        | C++ :arrow_forward: | 4. 505 - automate-the-boring-stuff-with-python-2015 | Relational Databases (Bash, PostgreSQL, Git) | ----- | ----- | 
 | 5        | Java | 5. [C++ for Python Programmers](https://runestone.academy/ns/books/published/cpp4python/index.html)  :arrow_forward: | Responsive Web Design (HTML, CSS, Flexbox, CSS Grid) :white_check_mark: | ----- | ----- | ----- |
 | 6        | ----- | 6. [learncpp.com](https://www.learncpp.com/)  :arrow_forward: | JavaScript Algorithms and Data Structures (A ton of JavaScript, including variables, arrays, objects, functions, object oriented programming and functional programming) :white_check_mark: | ----- | ----- | ----- |
-| 7        | ----- | 7. Programming: Principles and Practice Using C++ - Bjarne Stroustrup :arrow_forward: | Front End Development Libraries (React, Redux, Sass, Bootstrap, jQuery) | ----- | ----- | ----- |
+| 7        | ----- | ----- | Front End Development Libraries (React, Redux, Sass, Bootstrap, jQuery) | ----- | ----- | ----- |
 | 8        | ----- | -----  | Back End Development and APIs (Node.js, Express, Mongo, Mongoose) | ----- | ----- | ----- |
 | 9        | ----- | ----- | Data Visualization (D3.js) | ----- | ----- | ----- |
 | 10       | ----- | ----- | Quality Assurance (Chai, Pug, Passport, Socket.io) | ----- | ----- | ----- |
