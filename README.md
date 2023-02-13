@@ -28,8 +28,8 @@
 |  | 1 | 2 | 3 | 
 | ----- | ----- | ----- | ----- | 
 | **Filming** | Filming :arrow_forward: | Sound | Story-telling :arrow_forward: |
-| **Video** | Adobe Premiere Pro :arrow_forward: | Adobe After Effects |
-| **Photo** | Adobe Photoshop | Adobe Illustrator :arrow_forward: | Canva :white_check_mark: | 
+| **Video editing** | Adobe Premiere Pro :arrow_forward: | Adobe After Effects |
+| **Photo editing** | Adobe Photoshop | Adobe Illustrator :arrow_forward: | Canva :white_check_mark: | 
 | **UI/UX Design** | Adobe XD | Adobe Dreamweaver :hourglass: | 
 
 
