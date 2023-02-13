@@ -16,7 +16,7 @@
 - - - -
 
 # :footprints: BUSINESS BUILDING 
-To build businesses around the products and assets. 
+To build a business around the products and assets. 
 - [x] [Business Degree](https://imgur.com/krwGlIX "Vu business degree") <br> 
 - [x] [Chartered Professional Accountant designation](https://imgur.com/ujGubaD "Vu CPA designation") 
 - [ ] Product building -> Business building 
