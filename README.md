@@ -16,6 +16,7 @@
 - - - -
 
 # :footprints: BUSINESS BUILDING 
+To build businesses around the products and assets. 
 - [x] [Business Degree](https://imgur.com/krwGlIX "Vu business degree") <br> 
 - [x] [Chartered Professional Accountant designation](https://imgur.com/ujGubaD "Vu CPA designation") 
 - [ ] Product building -> Business building 
@@ -25,6 +26,8 @@
 - - - -
 
 # :desktop_computer: MEDIA PRODUCTION 
+To build media assets. 
+
 |  | 1 | 2 | 3 | 
 | ----- | ----- | ----- | ----- | 
 | **Filming** | Filming :arrow_forward: | Sound | Story-telling :arrow_forward: |
@@ -37,6 +40,7 @@
 - - - -
 
 # :world_map:  SOFTWARE ENGINEERING
+To build software assets. 
 
 ## Software engineering stack 
 |  | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
