@@ -14,15 +14,15 @@
 <br>
 
 - - - -
-# :footprints: Business/financial skills developed 
+# :footprints: Business/financial skills 
 - [x] [Business Degree](https://imgur.com/krwGlIX "Vu business degree") <br> 
 - [x] [Chartered Professional Accountant designation](https://imgur.com/ujGubaD "Vu CPA designation") 
-- [ ] Business building 
+- [ ] Product building -> Business building 
 
 <br>
 
 - - - -
-# :world_map:  Software/engineering skills to develop 
+# :world_map:  Software/engineering skills 
 
 ## Software engineering stack 
 |  | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
