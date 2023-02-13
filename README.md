@@ -14,7 +14,8 @@
 <br>
 
 - - - -
-# :footprints: Business/financial skills 
+
+# :footprints: BUSINESS BUILDING 
 - [x] [Business Degree](https://imgur.com/krwGlIX "Vu business degree") <br> 
 - [x] [Chartered Professional Accountant designation](https://imgur.com/ujGubaD "Vu CPA designation") 
 - [ ] Product building -> Business building 
@@ -22,7 +23,18 @@
 <br>
 
 - - - -
-# :world_map:  Software/engineering skills 
+
+# :desktop_computer: MEDIA PRODUCTION 
+|  | 1 | 2 | 3 | 
+| ----- | ----- | ----- | ----- | 
+| **Video** | Adobe Premiere Pro :arrow_forward: | Adobe After Effects |
+| **Photo** | Adobe Photoshop | Adobe Illustrator :arrow_forward: | Canva :white_check_mark: | 
+| **UI/UX Design** | Adobe XD | Adobe Dreamweaver :hourglass: | 
+
+
+- - - -
+
+# :world_map:  SOFTWARE ENGINEERING
 
 ## Software engineering stack 
 |  | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
@@ -31,16 +43,6 @@
 | **Frameworks / Libraries** | Bootstrap | React.js | Django, Pandas, Numpys, TensorFlow | 
 | **Cross-platform** | Express.js / Node.js | MongoDB | 
 | **Data Modeling** | Excel / VBA :white_check_mark: | Power BI / DAX :white_check_mark: |
-
-
-
-## Media production stack 
-|  | 1 | 2 | 3 | 
-| ----- | ----- | ----- | ----- | 
-| **Video** | Adobe Premiere Pro :arrow_forward: | Adobe After Effects |
-| **Photo** | Adobe Photoshop | Adobe Illustrator :arrow_forward: | Canva :white_check_mark: | 
-| **UI/UX Design** | Adobe XD | Adobe Dreamweaver :hourglass: | 
-
 
 - - - -
 ## Computer Science Degree 
