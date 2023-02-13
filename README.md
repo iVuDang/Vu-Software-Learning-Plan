@@ -32,6 +32,7 @@
 | **Photo editing** | Adobe Photoshop | Adobe Illustrator :arrow_forward: | Canva :white_check_mark: | 
 | **UI/UX Design** | Adobe XD | Adobe Dreamweaver :hourglass: | 
 
+<br>
 
 - - - -
 
