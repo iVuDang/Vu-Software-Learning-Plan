@@ -76,7 +76,10 @@ COMP 3553 - Human-Computer Interaction | | Fall 2024
 COMP 4513 - Web III: Advanced Web Development | | Winter 2025
 COMP 4622 - Advanced Databases | | Winter 2025
 COMP 4633 - Advanced Software Engineering | | Winter 2025
-
+COMP 3533 - Network Infrastructure and Security | | ?
+COMP 3625 - Artificial Intelligence | | ?
+COMP 4635 - Distributed Systems | | ?
+COMP 4630 - Machine Learning | | ?
 
 - - - -
 ## Supplementary Courses & Certifications (in addition to Comp Sci Degree)
