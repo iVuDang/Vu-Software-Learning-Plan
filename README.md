@@ -61,12 +61,12 @@ COMP 1633 - Introduction to Computer Science II | :arrow_forward: | Winter 2023
 MATH 2234 - Concepts of Mathematical Statistics | | Winter 2023
 PHIL 1179 - Introduction to Symbolic Logic | :arrow_forward: | Winter 2023 
 COMP 3309 - Information Technology and Society | :hourglass: | Winter 2023
-MATH 1271 - Discrete Mathematics | | Fall 2023
-COMP 2655 - Computing Machinery I | | Fall 2023
-COMP 2613 - Introduction to Computability | | Fall 2023
-COMP 2631 - Information Structures I | | Fall 2023
+MATH 1271 - Discrete Mathematics | :hourglass: | Fall 2023
+COMP 2655 - Computing Machinery I | :hourglass: | Fall 2023
+COMP 2613 - Introduction to Computability | :hourglass: | Fall 2023
+COMP 2631 - Information Structures I | :hourglass: | Fall 2023
 COMP 2659 - Computing Machinery II | | Winter 2024
-COMP 2633 - Foundations of Software Engineering | | Winter 2024
+COMP 2633 - Foundations of Software Engineering | :hourglass: | Winter 2024
 COMP 3614 - Algorithms and Complexity | | Winter 2024
 COMP 3649 - Programming Paradigms | | Winter 2024
 COMP 3659 - Operating Systems | | Fall 2024
