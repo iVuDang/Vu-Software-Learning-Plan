@@ -58,28 +58,29 @@ COMP 1501/1631 - Introduction to Computer Science I | :white_check_mark: | Fall 
 MATH 1200 - Calculus for Scientists I | :arrow_forward: | Fall 2022
 MATH 1203 - Linear Algebra for Scientists and Engineers | :white_check_mark: | Fall 2022
 COMP 1633 - Introduction to Computer Science II | :arrow_forward: | Winter 2023
-MATH 2234 - Concepts of Mathematical Statistics | | Winter 2023
 PHIL 1179 - Introduction to Symbolic Logic | :arrow_forward: | Winter 2023 
-COMP 3309 - Information Technology and Society | :hourglass: | Winter 2023
-MATH 1271 - Discrete Mathematics | :hourglass: | Fall 2023
-COMP 2655 - Computing Machinery I | :hourglass: | Fall 2023
-COMP 2613 - Introduction to Computability | :hourglass: | Fall 2023
-COMP 2631 - Information Structures I | :hourglass: | Fall 2023
-COMP 2659 - Computing Machinery II | | Winter 2024
-COMP 2633 - Foundations of Software Engineering | :hourglass: | Winter 2024
-COMP 3614 - Algorithms and Complexity | | Winter 2024
-COMP 3649 - Programming Paradigms | | Winter 2024
-COMP 3659 - Operating Systems | | Fall 2024
-COMP 3612 - Web Development for Computer Science | | Fall 2024
-COMP 2521 - Database I: Data Modeling and Query Languages | | Fall 2024
-COMP 3553 - Human-Computer Interaction | | Fall 2024
-COMP 4513 - Web III: Advanced Web Development | | Winter 2025
-COMP 4622 - Advanced Databases | | Winter 2025
-COMP 4633 - Advanced Software Engineering | | Winter 2025
-COMP 3533 - Network Infrastructure and Security | | ?
-COMP 3625 - Artificial Intelligence | | ?
-COMP 4635 - Distributed Systems | | ?
-COMP 4630 - Machine Learning | | ?
+MATH 1271 - Discrete Mathematics ⌛
+COMP 2655 - Computing Machinery I ⌛
+COMP 2631 - Information Structures I ⌛
+MATH 2234 - Concepts of Mathematical Statistics
+COMP 2633 - Foundations of Software Engineering ⌛
+COMP 2613 - Introduction to Computability ⌛
+COMP 2659 - Computing Machinery II ⌛
+COMP 2521 - Database I: Data Modeling and Query Languages ⌛
+COMP 3533 - Network Infrastructure and Security
+COMP 3612 - Web Development for Computer Science
+COMP 3553 - Human-Computer Interaction
+COMP 3659 - Operating Systems
+COMP 3649 - Programming Paradigms
+COMP 3614 - Algorithms and Complexity
+COMP 4633 - Advanced Software Engineering
+COMP 4513 - Web III: Advanced Web Development
+COMP 4622 - Advanced Databases
+COMP 3625 - Artificial Intelligence
+COMP 4635 - Distributed Systems
+COMP 4630 - Machine Learning
+COMP 3309 - Information Technology and Society
+
 
 - - - -
 ## Supplementary Courses & Certifications (in addition to Comp Sci Degree)
