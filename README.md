@@ -26,7 +26,7 @@ To build a business around the products and assets.
 - - - -
 
 # :desktop_computer: MEDIA PRODUCTION 
-To build media assets. 
+- [ ] To build media assets. 
 
 |  | 1 | 2 | 3 | 
 | ----- | ----- | ----- | ----- | 
@@ -40,7 +40,7 @@ To build media assets.
 - - - -
 
 # :world_map:  SOFTWARE ENGINEERING
-To build software assets. 
+- [ ] To build software assets. 
 
 ## Software engineering stack 
 |  | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
