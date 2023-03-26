@@ -59,14 +59,14 @@ MATH 1200 - Calculus for Scientists I | :arrow_forward: | Fall 2022
 MATH 1203 - Linear Algebra for Scientists and Engineers | :white_check_mark: | Fall 2022
 COMP 1633 - Introduction to Computer Science II | :arrow_forward: | Winter 2023
 PHIL 1179 - Introduction to Symbolic Logic | :arrow_forward: | Winter 2023 
-MATH 1271 - Discrete Mathematics ⌛
-COMP 2655 - Computing Machinery I ⌛
-COMP 2631 - Information Structures I ⌛
-MATH 2234 - Concepts of Mathematical Statistics
-COMP 2633 - Foundations of Software Engineering ⌛
-COMP 2613 - Introduction to Computability ⌛
-COMP 2659 - Computing Machinery II ⌛
-COMP 2521 - Database I: Data Modeling and Query Languages ⌛
+MATH 1271 - Discrete Mathematics |  ⌛ | 
+COMP 2655 - Computing Machinery I | ⌛ | 
+COMP 2631 - Information Structures I | ⌛ | 
+MATH 2234 - Concepts of Mathematical Statistics 
+COMP 2633 - Foundations of Software Engineering | ⌛ | 
+COMP 2613 - Introduction to Computability | ⌛ | 
+COMP 2659 - Computing Machinery II | ⌛ | 
+COMP 2521 - Database I: Data Modeling and Query Languages | ⌛ | 
 COMP 3533 - Network Infrastructure and Security
 COMP 3612 - Web Development for Computer Science
 COMP 3553 - Human-Computer Interaction
