@@ -144,10 +144,14 @@ COMP 3309 - Information Technology and Society
 12. Singapore 
 
 ### To Visit Next:
+ASIA
 - [ ] Phillipines
 - [ ] Taiwan
 - [ ] South Korea
 - [ ] Japan (II)
+- [ ] Maldives
+
+EUROPE
 - [ ] Spain
 - [ ] Greece
 - [ ] Italy
@@ -156,16 +160,22 @@ COMP 3309 - Information Technology and Society
 - [ ] Czech Republic
 - [ ] Croatia
 - [ ] Hungary
-- [ ] Maldives
+
+MIDDLE EAST
 - [ ] Israel
+
+CENTRAL AMERICA
 - [ ] Cuba
 - [ ] Aruba 
 - [ ] Curacao
 - [ ] Grenada
+- [ ] Panama
+
+SOUTH AMERICA
 - [ ] Argentina
 - [ ] Peru
 - [ ] Chile 
-- [ ] Panama
+
 
 
 <br>
