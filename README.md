@@ -148,7 +148,6 @@ COMP 3309 - Information Technology and Society
 - [ ] Taiwan
 - [ ] South Korea
 - [ ] Japan (II)
-- [ ] 
 - [ ] Spain
 - [ ] Greece
 - [ ] Italy
