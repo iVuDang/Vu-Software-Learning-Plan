@@ -145,6 +145,10 @@ COMP 3309 - Information Technology and Society
 
 ### To Visit Next:
 - [ ] Phillipines
+- [ ] Taiwan
+- [ ] South Korea
+- [ ] Japan (II)
+- [ ] 
 - [ ] Spain
 - [ ] Greece
 - [ ] Italy
@@ -161,6 +165,7 @@ COMP 3309 - Information Technology and Society
 - [ ] Grenada
 - [ ] Argentina
 - [ ] Peru
+- [ ] Chile 
 - [ ] Panama
 
 
