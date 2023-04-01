@@ -147,6 +147,8 @@ COMP 3309 - Information Technology and Society
 - [ ] Phillipines
 - [ ] Spain
 - [ ] Greece
+- [ ] Italy
+- [ ] Switzerland
 - [ ] Portugal 
 - [ ] Czech Republic
 - [ ] Croatia
