@@ -91,11 +91,10 @@ COMP 3309 - Information Technology and Society
 | 1        | Python :hourglass: | 1. 158 - Python (2nd Edition)_ Learn Pyt - LCF Publishing :white_check_mark: | Scientific Computing with Python (Variables, loops, conditionals, functions, data structures, networking, relational databases, data visualization) :white_check_mark: | Harvard CS50's Introduction to Computer Science :hourglass: | Web Foundations :white_check_mark: | 
 | 2        | JavaScript :hourglass: | 2. 191 - Python Programming for Beginner - Jason Cannon :white_check_mark:  | Data Analysis with Python (Numpy, Pandas, Matplotlib, Seaborn)  :hourglass: | MIT Introduction to Computer Science and Programming Using Python | Full Stack JavaScript | 
 | 3        | SQL :hourglass: | 3. 562 - python-crash-course | Machine Learning with Python (TensorFlow, neural networks, natural language processing, reinforcement learning) :hourglass: | Harvard CS50's Web Programming with Python and JavaScript | ----- | 
-| 4        | C++ :arrow_forward: | 4. 505 - automate-the-boring-stuff-with-python-2015 | Relational Databases (Bash, PostgreSQL, Git) | CS50's Introduction to Programming with Python
-IBM Data Structures & Algorithms Using C++ | ----- | 
+| 4        | C++ :arrow_forward: | 4. 505 - automate-the-boring-stuff-with-python-2015 | Relational Databases (Bash, PostgreSQL, Git) | CS50's Introduction to Programming with Python | ----- | 
 | 5        | Java | 5. [C++ for Python Programmers](https://runestone.academy/ns/books/published/cpp4python/index.html)  :white_check_mark: | Responsive Web Design (HTML, CSS, Flexbox, CSS Grid) :white_check_mark: | CS50's Introduction to Artificial Intelligence with Python | ----- | ----- |
 | 6        | ----- | 6. [learncpp.com](https://www.learncpp.com/)  :arrow_forward: | JavaScript Algorithms and Data Structures (A ton of JavaScript, including variables, arrays, objects, functions, object oriented programming and functional programming) :white_check_mark: | CS50's Introduction to Cybersecurity | ----- | ----- |
-| 7        | ----- | ----- | Front End Development Libraries (React, Redux, Sass, Bootstrap, jQuery) | ----- | ----- | ----- |
+| 7        | ----- | ----- | Front End Development Libraries (React, Redux, Sass, Bootstrap, jQuery) | IBM Data Structures & Algorithms Using C++ | ----- | ----- |
 | 8        | ----- | -----  | Back End Development and APIs (Node.js, Express, Mongo, Mongoose) | ----- | ----- | ----- |
 | 9        | ----- | ----- | Data Visualization (D3.js) | ----- | ----- | ----- |
 | 10       | ----- | ----- | Quality Assurance (Chai, Pug, Passport, Socket.io) | ----- | ----- | ----- |
