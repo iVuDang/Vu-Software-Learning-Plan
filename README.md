@@ -80,6 +80,8 @@ COMP 3625 - Artificial Intelligence
 COMP 4635 - Distributed Systems
 COMP 4630 - Machine Learning
 COMP 3309 - Information Technology and Society
+SPAN 1101 - Beginners’ Spanish I
+SPAN 1103 - Beginners’ Spanish II
 
 
 - - - -
@@ -94,7 +96,7 @@ COMP 3309 - Information Technology and Society
 | 4        | C++ :arrow_forward: | 4. 505 - automate-the-boring-stuff-with-python-2015 | Relational Databases (Bash, PostgreSQL, Git) | CS50's Introduction to Programming with Python | ----- | 
 | 5        | Java | 5. [C++ for Python Programmers](https://runestone.academy/ns/books/published/cpp4python/index.html)  :white_check_mark: | Responsive Web Design (HTML, CSS, Flexbox, CSS Grid) :white_check_mark: | CS50's Introduction to Artificial Intelligence with Python | ----- | ----- |
 | 6        | ----- | 6. [learncpp.com](https://www.learncpp.com/)  :arrow_forward: | JavaScript Algorithms and Data Structures (A ton of JavaScript, including variables, arrays, objects, functions, object oriented programming and functional programming) :white_check_mark: | CS50's Introduction to Cybersecurity | ----- | ----- |
-| 7        | ----- | ----- | Front End Development Libraries (React, Redux, Sass, Bootstrap, jQuery) | IBM Data Structures & Algorithms Using C++ | ----- | ----- |
+| 7        | Swift | ----- | Front End Development Libraries (React, Redux, Sass, Bootstrap, jQuery) | IBM Data Structures & Algorithms Using C++ | ----- | ----- |
 | 8        | ----- | -----  | Back End Development and APIs (Node.js, Express, Mongo, Mongoose) | ----- | ----- | ----- |
 | 9        | ----- | ----- | Data Visualization (D3.js) | ----- | ----- | ----- |
 | 10       | ----- | ----- | Quality Assurance (Chai, Pug, Passport, Socket.io) | ----- | ----- | ----- |
